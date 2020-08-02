@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome To My Blog
 
-I'm glad you are here. I plan to talk about ...
+This is a tutorial about GitHub Pages.
+
+https://lab.github.com/githubtraining/github-pages
